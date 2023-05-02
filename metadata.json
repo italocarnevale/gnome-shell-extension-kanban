@@ -1,0 +1,8 @@
+{
+  "name": "Kanban",
+  "description": "Manage personal tasks with a Kanban in Gnome applet",
+  "uuid": "gnome-shell-extension-kanban@italocarnevale.it",
+  "shell-version": [
+    "3.38"
+  ]
+}
